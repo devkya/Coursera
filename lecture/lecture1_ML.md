@@ -11,4 +11,8 @@
 * E = 체스 게임을 많이 한 경험  
 * P = 프로그램이 다음 게임에서 이길 확률  
 
-
+# Supervised Learning
+일반적으로 머신러닝 문제는 지도학습과 비지도학습의 범주에 포함된다.  
+* 지도학습이란? 훈련 데이터로부터 하나의 함수를 유추해내기 위한 방법이며 **정답(label)을 이미 알고 있다.**
+* Regression(회귀) : 연속형 변수를 예측한다. ex) 부동산 시장의 주택 크기에 대한 가격 예측 - [01_Regression.ipynb](https://github.com/Devkya/Coursera/blob/master/lecture_code/Lecture3_Regression.ipynb)
+* Classification(분류) : 범주형 변수를 예측한다. ex) 종양이 악성인지 양성인지 예측 - [02_Classification.ipynb](https://github.com/Devkya/Coursera/blob/master/lecture_code/lecture3_classification.ipynb)
