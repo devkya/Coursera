@@ -23,5 +23,11 @@
 * clustering(군집화) : 수많은 서로 다른 유전자 데이터를 수명, 위치, 역할 등과 같은 다양한 변수에 의해 그룹화시킨다.
 * 칵테이 파티 알고리즘 : 개별 목소리와 음악을 식별함.
 
-# Model
+# Model 표현
+m = Number of training examples  
+x = feature/input variable  
+y = class/target/output variable  
+  
+* hypothesis란?  
+h : X -> Y => x에 대한 ydml
 ![model](./image/model.png)
