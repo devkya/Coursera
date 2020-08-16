@@ -29,5 +29,12 @@ x = feature/input variable
 y = class/target/output variable  
   
 * hypothesis란?  
-h : X -> Y => x에 대한 ydml
+h : X -> Y => x에 대한 y값을 잘 예측하는 것.
+
 ![model](./image/model.png)
+
+# cost function(비용 함수)
+cost function : MSE(mean square Error) etc...  
+목표는 cost function를 최소화하는 것이다.  
+![cost function](./image/cost.png)
+![]
